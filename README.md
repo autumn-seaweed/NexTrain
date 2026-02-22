@@ -18,7 +18,7 @@ _**注：データの制限により、JR系などは未対応です。ご要望
 ## 📱 動作環境 (Requirements)
 
 * **iOS 18.0** 以上
-* iPhone (Dynamic Island対応機種を推奨)
+* 
 
 ## 📥 ダウンロード (Download)
 
